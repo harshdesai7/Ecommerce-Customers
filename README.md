@@ -15,7 +15,7 @@ Time on Website: Average time spent on Website in minutes
 Length of Membership: How many years the customer has been a member.
  
  # Question:
- What should company improve tom increase their sale (mobile app, website or length of membership)
+ What should company improve to increase their sale (mobile app, website or length of membership)
  
  
  
